@@ -1,0 +1,17 @@
+body {
+    background-color: #EAECF4;
+    color: #343B49;
+}
+
+.meuNome, .descricao, .resido, h2, li {
+    font-family: montserrat, sans-serif;
+}
+
+em {
+    color: #A678A3;
+}
+
+.minhaFoto {
+    width: 200px;
+    border-radius: 15pxtouch;
+}
